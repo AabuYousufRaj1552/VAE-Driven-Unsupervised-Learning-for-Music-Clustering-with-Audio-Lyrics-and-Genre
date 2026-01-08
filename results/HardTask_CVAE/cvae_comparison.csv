@@ -1,0 +1,4 @@
+Configuration,Best ARI,Beta,Latent Dim,Genre Weight,N_Clusters
+CVAE_Standard,1.0,1.0,64,0.5,20
+CVAE_Disentangled_Low,1.0,4.0,96,0.3,20
+CVAE_Disentangled_High,1.0,8.0,128,0.2,20
