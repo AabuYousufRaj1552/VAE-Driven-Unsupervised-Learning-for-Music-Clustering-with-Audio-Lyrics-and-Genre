@@ -1,0 +1,10 @@
+config,method,n_clusters,silhouette,davies_bouldin,ari
+Balanced_Config,PCA(rawFused)_KMeans,6,0.138763532,1.834883168,0.05090344
+Balanced_Config,PCA(rawFused)_Agglomerative,6,0.109620526,1.746245666,0.052438117
+Balanced_Config,RawAudioMean+Lyrics_KMeans,6,0.082598276,2.578924875,0.050375842
+Balanced_Config,RawAudioMean+Lyrics_Agglomerative,6,0.063323021,2.757978326,0.032011974
+Balanced_Config,ConvVAE+Lyrics_KMeans,6,0.038748495,3.61037497,0.066749972
+Balanced_Config,ConvVAE+Lyrics_Agglomerative,6,0.016980365,4.2714156,0.078410387
+Balanced_Config,ConvVAE+Lyrics_DBSCAN(failed),0,,,
+Balanced_Config,RawAudioMean+Lyrics_DBSCAN(failed),0,,,
+Balanced_Config,PCA(rawFused)_DBSCAN(failed),0,,,
