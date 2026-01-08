@@ -1,0 +1,4 @@
+Configuration,Best ARI,Beta,Latent Dim,N_Clusters
+BetaVAE_Disentangled_Low,0.059725865006982536,4.0,96,20
+BetaVAE_Disentangled_High,0.05930014274362757,8.0,128,20
+BetaVAE_Standard,0.047267356552896135,1.0,64,20

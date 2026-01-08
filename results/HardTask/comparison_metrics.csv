@@ -1,0 +1,4 @@
+method,silhouette,ari_genre,nmi_genre,purity_genre,ari_lang,nmi_lang,purity_lang
+VAE_latent+KMeans,0.8028013706207275,0.0,0.0,0.30857142857142855,0.0,0.0,1.0
+DirectAudioMean+KMeans,0.6577528715133667,0.0,0.0,0.30857142857142855,0.0,0.0,1.0
+PCA(fused)+KMeans,0.5663882493972778,0.0,0.0,0.30857142857142855,0.0,0.0,1.0
