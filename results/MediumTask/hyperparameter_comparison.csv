@@ -1,0 +1,6 @@
+Configuration,Best Silhouette,Latent Dim,Beta,Learning Rate,Epochs
+Aggressive,1.0,96,0.4,0.002,50
+Compact,0.17071972787380219,32,0.8,0.001,80
+Balanced_Config,0.13876353204250336,64,0.5,0.001,60
+Low_Beta,0.13876353204250336,64,0.1,0.001,60
+High_Capacity,0.11411679536104202,128,0.3,0.0005,60

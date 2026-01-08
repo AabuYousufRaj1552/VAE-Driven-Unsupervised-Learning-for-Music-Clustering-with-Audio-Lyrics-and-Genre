@@ -1,0 +1,10 @@
+config,method,n_clusters,silhouette,davies_bouldin,ari
+Aggressive,"ConvVAE+Lyrics_DBSCAN(eps=0.5,ms=3)",2,1.0,4.168037764142079e-08,
+Aggressive,PCA(rawFused)_KMeans,6,0.12369543313980103,1.9943346674663234,
+Aggressive,PCA(rawFused)_Agglomerative,6,0.1029394119977951,2.122459688670398,
+Aggressive,RawAudioMean+Lyrics_KMeans,6,0.08259827643632889,2.578924875448826,
+Aggressive,RawAudioMean+Lyrics_Agglomerative,6,0.0633230209350586,2.7579783261040984,
+Aggressive,ConvVAE+Lyrics_KMeans,6,0.021387478336691856,4.186927380691022,
+Aggressive,ConvVAE+Lyrics_Agglomerative,6,0.01591351255774498,4.868164825065353,
+Aggressive,RawAudioMean+Lyrics_DBSCAN(failed),0,,,
+Aggressive,PCA(rawFused)_DBSCAN(failed),0,,,
